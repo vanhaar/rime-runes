@@ -1,0 +1,88 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Runes keyboard
+#
+# Table author:
+#  - Valery Sokolov <yetanothermy@protonmail.com>
+#
+
+---
+name: runes
+version: "0.1"
+sort: original
+...
+
+#Lower case symbols
+ᚨ	a
+ᛒ	b
+ᛥ	c
+#tz ?
+ᛤ	cx
+#ch ĉ ?
+ᛞ	d
+ᛖ	e
+ᚠ	f
+#ph
+ᚷ	g
+#g
+ᚸ	gx
+#gh ĝ ?
+ᚺ	h
+ᚻ	hx
+#qh ĥ
+ᛁ	i
+ᛡ	j
+#y
+ᚧ	jx
+#zh ĵ ?
+ᚳ	k
+#c
+ᛚ	l
+ᛗ	m
+ᚾ	n
+ᚩ	o
+ᛈ	p
+ᚱ	r
+ᛋ	s
+ᛲ	sx
+#sh ŝ
+ᛏ	t
+ᚢ	u
+ᚥ	w
+#ux ù
+ᚹ	v
+#w
+ᛉ	z
+ᛄ	dz
+#zz ĝ ?
+ᛪ	ks
+#x
+ᚳᚥ	kv
+#cù
+ᚯ	y
+#œ
+ᚫᚥ	aw
+#aù
+ᛖᚥ	ew
+#eù
+ᛢᛁ	ki
+#qui
+ᛢᛖ	ke
+#que
+ᛢᚯ	ky
+#quœ
+ᚸᛁ	gi
+#gui
+ᚸᛖ	ge
+#gue
+ᚸᚯ	gy
+#guœ
+ᛢ	q
+ᛪ	x
+
+#Uppercase symbols
+
+#Symbols
+
+#Numbers
