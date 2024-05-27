@@ -13,7 +13,7 @@ version: "0.1"
 sort: original
 ...
 
-#Lower case symbols
+#Lowercase symbols
 ᚨ	a
 ᛒ	b
 ᛥ	c
@@ -84,5 +84,8 @@ sort: original
 #Uppercase symbols
 
 #Symbols
+᛭	.
+᛬	,
+᛫	/
 
 #Numbers
