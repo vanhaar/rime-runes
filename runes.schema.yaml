@@ -23,7 +23,7 @@ engine:
     - table_translator
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
+  alphabet: zyxwvutsrqponmlkjihgfedcba/,.
   # initials: ''
   # finals: ''
   auto_select: true
